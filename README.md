@@ -1,4 +1,4 @@
-# amazon_clone_tutorial
+# amazon_clone_tutorial (30-07-2022)
 
 A new Flutter project.
 
